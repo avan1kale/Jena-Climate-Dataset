@@ -3,7 +3,7 @@ A simple Deep Learning project comparing Simple RNN and LSTM models on the Jena 
 
 # RNN vs LSTM: Efficiency & Accuracy Comparison on Jena Climate Dataset
 
-> Predicting the **24th successive time step** of climate data using vanilla RNN and LSTM networks — comparing their convergence speed, training efficiency, and forecasting accuracy.
+Predicting the **24th successive time step** of climate data using vanilla RNN and LSTM networks — comparing their convergence speed, training efficiency, and forecasting accuracy.
 
 
 ## 📌 Overview
