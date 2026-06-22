@@ -134,6 +134,7 @@ This project demonstrates the implementation and comparison of Simple RNN and LS
 ```
 .
 ├── data/                  # Dataset / data loading scripts
+├── requirements/
 ├── notebooks/             # Jupyter notebooks for experimentation
 └── README.md
 ```
